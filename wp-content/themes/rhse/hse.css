@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+#banner{
+
+	background:url('images/SiteHse_01.jpg') no-repeat;
+	height:250px;	
+	
+}
+
+#titelslider{
+	font-size:18px;
+	font:bold;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#ffffff;
+	height:25px,	
+}
+
+#slider{
+	width:621px;
+	height:225px;
+	background-color:#48484A;
+	padding-left:7px;	
+	
+}
+
+#bold{
+	font-style:
+
+}
+
+#question{
+	width:621px;
+	margin-top:10px;	
+}
+
+
+
+#wpscst_reply_editor_table {display:none;}
+#wpscst_reply_editor_table {display:none\9;}
+
+
+.wpscst-table {display:block;}
+.wpscst-table {display:none\9;}
+
+
+#wpscst_edit_ticket_inner {display:block;}
+#wpscst_edit_ticket_inner {display:block;}
+
+
+#wpscst_nic_panel{ width:530px !important ;}
+#wpscst_initial_message { width:530px !important;}
+#textarea {width:95%;}
